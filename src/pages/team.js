@@ -937,7 +937,7 @@ export default (() => {
 		</Link>
 		<RawHtml>
 			<meta
-				charset={""}
+				charset={"<meta name=\"propeller\" content=\"fab183a6cb0f5bfee23e0fff5c317a1b\">"}
 				name={"propeller"}
 				content={"fab183a6cb0f5bfee23e0fff5c317a1b"}
 				place={"endOfHead"}
