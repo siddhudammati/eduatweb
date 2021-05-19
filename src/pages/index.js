@@ -3,7 +3,7 @@ import theme from "theme";
 import { Theme, Link, Image, Button, Text, Box, Icon } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
 import { GlobalQuarklyPageStyles } from "global-page-styles";
-import { Override, StackItem, Stack, Section, SocialMedia } from "@quarkly/components";
+import { RawHtml, Override, StackItem, Stack, Section, SocialMedia } from "@quarkly/components";
 import * as Components from "components";
 import { MdMenu } from "react-icons/md";
 import { DiBootstrap, DiBingSmall, DiCssTricks, DiEnvato, DiGithubBadge } from "react-icons/di";
@@ -1247,5 +1247,14 @@ export default (() => {
 		>
 			Made on Quarkly
 		</Link>
+		<RawHtml>
+			<meta
+				charset={""}
+				name={"propeller"}
+				content={"fab183a6cb0f5bfee23e0fff5c317a1b"}
+				place={"endOfHead"}
+				rawKey={"60a4976bd755c55331c80740"}
+			/>
+		</RawHtml>
 	</Theme>;
 });

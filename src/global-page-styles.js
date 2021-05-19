@@ -6,8 +6,8 @@ const pageStyles = {
     "404": {},
     "index": {},
     "about": {},
-    "work": {},
     "team": {},
+    "work": {},
     "contact": {}
 };
 
