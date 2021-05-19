@@ -680,8 +680,8 @@ export default (() => {
 		<RawHtml>
 			<meta
 				charset={"<meta name=\"propeller\" content=\"fab183a6cb0f5bfee23e0fff5c317a1b\">"}
-				name={"propeller"}
-				content={"fab183a6cb0f5bfee23e0fff5c317a1b"}
+				name={""}
+				content={""}
 				place={"endOfHead"}
 				rawKey={"60a4976bd755c55331c80740"}
 			/>
